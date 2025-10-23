@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.27c3795b.css",
+    "main.js": "/static/js/main.fef45ca4.js",
+    "static/js/453.4f2fb50e.chunk.js": "/static/js/453.4f2fb50e.chunk.js",
+    "static/media/kalugumalai.png": "/static/media/kalugumalai.cca1eaa076be988cbbf3.png",
+    "static/media/kattabommanFort.png": "/static/media/kattabommanFort.1aa5f673e2210705f49f.png",
+    "static/media/tuty.png": "/static/media/tuty.ce12acf1b57eaa711598.png",
+    "static/media/korkai.png": "/static/media/korkai.bf9ad6e68ac7d40d5ea1.png",
+    "static/media/mayuraThottam.png": "/static/media/mayuraThottam.aef44b036aadd3e1ca67.png",
+    "static/media/snowShrine.png": "/static/media/snowShrine.6adfdd486b66a6276d79.png",
+    "static/media/muthunagarBeach.png": "/static/media/muthunagarBeach.ffd91c80092b9bc2c253.png",
+    "static/media/VallanaduSanctuary.png": "/static/media/VallanaduSanctuary.659b50842c8b8df68b55.png",
+    "static/media/manapad.png": "/static/media/manapad.005d8449192cb969206f.png",
+    "static/media/logo.png": "/static/media/logo.4d89bae133810fdedd9e.png",
+    "static/media/bus.png": "/static/media/bus.16b6f409ceb921eb2e9f.png",
+    "static/media/tps.png": "/static/media/tps.0ff2f0697c0f743a5554.png",
+    "static/media/bhel.png": "/static/media/bhel.bd329995398ac4dd4003.png",
+    "static/media/sedan.jpeg": "/static/media/sedan.504be71590cbecb873fe.jpeg",
+    "static/media/premMuv.jpeg": "/static/media/premMuv.df6805c11f6f3997c882.jpeg",
+    "static/media/ac.png": "/static/media/ac.4230d61025f269b08258.png",
+    "static/media/adani.png": "/static/media/adani.15d3e9d0945095572234.png",
+    "static/media/suv.jpeg": "/static/media/suv.b7bcddc201269f497aa8.jpeg",
+    "static/media/muv.jpeg": "/static/media/muv.8d625df3803c66a0ae21.jpeg",
+    "static/media/traveller.jpeg": "/static/media/traveller.4c3486b9f380fcddc2f7.jpeg",
+    "index.html": "/index.html",
+    "main.27c3795b.css.map": "/static/css/main.27c3795b.css.map",
+    "main.fef45ca4.js.map": "/static/js/main.fef45ca4.js.map",
+    "453.4f2fb50e.chunk.js.map": "/static/js/453.4f2fb50e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27c3795b.css",
+    "static/js/main.fef45ca4.js"
+  ]
+}
